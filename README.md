@@ -59,16 +59,10 @@ The dashboard helps identify sales trends, compare branch performance, and under
 
 - Dashboard.pbix
 - Dataset.xlsx
-- Dashboard Screenshot.png
+
 
 ---
-
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
+ 
 ## 👩‍💻 Skills Demonstrated
 
 - Dashboard Development
@@ -84,4 +78,4 @@ The dashboard helps identify sales trends, compare branch performance, and under
 LinkedIn:
 https://www.linkedin.com/in/sonam-jain-10b33037b/
 GitHub:
-https://github.com/yourusername
+https://github.com/sonam-analyst
